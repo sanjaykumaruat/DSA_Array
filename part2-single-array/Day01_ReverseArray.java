@@ -2,7 +2,7 @@ package sinlge.array.part2;
 
 import java.util.Arrays;
 
-class Day1_ReverseArray {
+class Day01_ReverseArray {
 	public static void main(String[] args) {
 		// Day12_ReverseArray obj = new Day12_ReverseArray(); // Create an object
 		int[] arr = { 1, 2, 3, 4, 5 };

@@ -4,7 +4,7 @@ package sinlge.array.part2;
 //Space Complexity	O(n1 + n2)
 import java.util.Arrays;
 
-public class Day1_b_MergeTwoSortedArrays {
+public class Day01_b_MergeTwoSortedArrays {
 
     public static int[] merge(int[] arr1, int[] arr2) {
 

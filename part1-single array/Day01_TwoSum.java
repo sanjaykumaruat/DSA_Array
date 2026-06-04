@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Arrays;
 
-public class Day1_TwoSum {
+public class Day01_TwoSum {
 
     // ✅ Brute Force: O(n^2)
 //    public static int[] twoSumBruteForce(int[] arr, int target) {

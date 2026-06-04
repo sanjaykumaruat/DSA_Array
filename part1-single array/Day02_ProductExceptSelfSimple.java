@@ -2,7 +2,7 @@ package single.array.part1;
 
 import java.util.Arrays;
 
-public class Day2_ProductExceptSelfSimple {
+public class Day02_ProductExceptSelfSimple {
 
 	public static int[] productExceptSelf(int[] nums) {
 		int n = nums.length;

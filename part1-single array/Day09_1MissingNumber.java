@@ -1,7 +1,7 @@
 package single.array.part1;
 
 // this is bit manupulations based
-public class Day9_1MissingNumber {
+public class Day09_1MissingNumber {
 
     public static int missingNumber(int[] nums) {
 

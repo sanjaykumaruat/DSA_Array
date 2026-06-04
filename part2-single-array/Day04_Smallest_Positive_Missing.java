@@ -2,7 +2,7 @@ package sinlge.array.part2;
 
 import java.util.Arrays;
 
-class Day4_Smallest_Positive_Missing {
+class Day04_Smallest_Positive_Missing {
     // Function to find the smallest positive number missing from the array.
     public int missingNumber(int[] arr) {
         // Sort the array
@@ -20,7 +20,7 @@ class Day4_Smallest_Positive_Missing {
 
 
     public static void main(String[] args) {
-    	Day4_Smallest_Positive_Missing obj = new Day4_Smallest_Positive_Missing(); // Create an instance of the Solution class
+    	Day04_Smallest_Positive_Missing obj = new Day04_Smallest_Positive_Missing(); // Create an instance of the Solution class
         
         int[] arr = {2, -3, 4, 1, 1, 7}; 
         

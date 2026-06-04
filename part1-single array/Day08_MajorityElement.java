@@ -1,6 +1,6 @@
 package single.array.part1;
 //Boyer–Moore Majority Vote Algorithm
-public class Day8_MajorityElement {
+public class Day08_MajorityElement {
 
 	public static int majorityElement(int[] nums) {
 

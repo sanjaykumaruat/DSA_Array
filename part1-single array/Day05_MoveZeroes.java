@@ -2,7 +2,7 @@ package single.array.part1;
 
 import java.util.Arrays;
 
-public class Day5_MoveZeroes {
+public class Day05_MoveZeroes {
 
     public static void moveZeroes(int[] nums) {
 

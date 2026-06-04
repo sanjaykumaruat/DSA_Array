@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Arrays;
 
-public class Day5_UniqueArray {
+public class Day07_UniqueArray {
     public static void findUniqueElements(int[] arr) {
         Map<Integer, Integer> elementCountMap = new HashMap<>();
 

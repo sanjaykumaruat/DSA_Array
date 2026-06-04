@@ -1,6 +1,6 @@
 package single.array.part1;
 
-public class Day9_2MissingNumber_SecApproach {
+public class Day09_2MissingNumber_SecApproach {
 
     public static int missingNumber(int[] nums) {
 

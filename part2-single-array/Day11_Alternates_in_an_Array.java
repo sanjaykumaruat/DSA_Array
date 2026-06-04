@@ -2,7 +2,7 @@ package sinlge.array.part2;
 
 import java.util.ArrayList;
 
-public class Day8_Alternates_in_an_Array {
+public class Day11_Alternates_in_an_Array {
 	public static void main(String[] args) {
 		int[] arr = { 1, 2, 3, -5, -6, 4 }; // Example input array
 		System.out.println("Alternate elements: " + getAlternates(arr));

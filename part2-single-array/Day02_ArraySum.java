@@ -2,7 +2,7 @@ package sinlge.array.part2;
 
 import java.util.Arrays;
 
-public class Day2_ArraySum {
+public class Day02_ArraySum {
 
 	public static void main(String[] args) {
 		int[] arr = { 1,2,3,4};

@@ -1,6 +1,6 @@
 package single.array.part1;
 //Dutch National Flag algorithm
-public class Day6_SortColors {
+public class Day06_SortColors {
 
 	public static void sortColors(int[] nums) {
 

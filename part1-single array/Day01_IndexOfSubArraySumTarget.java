@@ -3,26 +3,26 @@ package single.array.part1;
 import java.util.ArrayList;
 import java.util.List;
 
-//class IndexOfSubArraySumTarget_Brute {
-//	 List<Integer> subarraySum(int[] arr, int target) {
-//		List<Integer> al = new ArrayList<>();
-//
-//		for (int i = 0; i < arr.length; i++) {
-//			int sum = 0;
-//			for (int j = i; j < arr.length; j++) {
-//				sum = sum + arr[j];
-//				if (sum == target) {
-//					al.add(i); // 0-based index
-//					al.add(j); // 0-based index
-//					return al;
-//				}
-//			}
-//		}
-//
-//		al.add(-1);
-//		return al;
-//	}
-//}
+class IndexOfSubArraySumTarget_Brute {
+	 List<Integer> subarraySum(int[] arr, int target) {
+		List<Integer> al = new ArrayList<>();
+
+		for (int i = 0; i < arr.length; i++) {
+			int sum = 0;
+			for (int j = i; j < arr.length; j++) {
+				sum = sum + arr[j];
+				if (sum == target) {
+					al.add(i); // 0-based index
+					al.add(j); // 0-based index
+					return al;
+				}
+			}
+		}
+
+		al.add(-1);
+		return al;
+	}
+}
 
 class IndexOfSubArraySumTarget_Optimize {
 	List<Integer> subarraySum(int[] arr, int target) {
@@ -51,7 +51,7 @@ class IndexOfSubArraySumTarget_Optimize {
 	}
 }
 
-public class Day1_IndexOfSubArraySumTarget {
+public class Day01_IndexOfSubArraySumTarget {
 	public static void main(String[] args) {
 		int[] arr = { 1, 2, 3, 7, 5 };
 		int target = 6;

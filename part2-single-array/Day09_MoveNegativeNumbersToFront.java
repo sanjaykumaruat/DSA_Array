@@ -3,7 +3,7 @@ package sinlge.array.part2;
 
 import java.util.Arrays;
 
-public class Day6_MoveNegativeNumbersToFront {
+public class Day09_MoveNegativeNumbersToFront {
     public static void moveNegativesToFront(int arr[]) {
         int n = arr.length;
         int temp[] = new int[n];

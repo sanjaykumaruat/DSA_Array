@@ -2,7 +2,7 @@ package sinlge.array.part2;
 
 //package leetcode.medium;
 import java.util.Arrays;
-public class Day12_RearrangeArrayBySign {
+public class Day13_RearrangeArrayBySign {
 
     public static int[] rearrangeArray(int[] nums) {
 

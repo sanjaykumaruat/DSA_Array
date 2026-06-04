@@ -4,7 +4,7 @@ package sinlge.array.part2;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Day5_ArrayDuplicate_Secondway {
+public class Day05_ArrayDuplicate_Secondway {
 	 public static void main(String[] args) {
 		  int[] arr = { 2, 3, 4, 2, 5, 6, 1, 3};
 		 

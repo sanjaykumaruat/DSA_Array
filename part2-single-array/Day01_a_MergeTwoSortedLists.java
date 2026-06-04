@@ -1,6 +1,6 @@
 package sinlge.array.part2;
 
-public class Day1_a_MergeTwoSortedLists {
+public class Day01_a_MergeTwoSortedLists {
 
     // Definition for singly-linked list
     static class ListNode {

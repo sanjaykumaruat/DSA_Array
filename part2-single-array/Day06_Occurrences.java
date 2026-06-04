@@ -2,7 +2,7 @@ package sinlge.array.part2;
 
 import java.util.*;
 
-public class Day5_Occurrences {
+public class Day06_Occurrences {
     public static void main(String[] args) {
         int[] arr = {2, 3, 1, 2, 3,-1}; // Given array
         Map<Integer, Integer> frequencyMap = new HashMap<>();
